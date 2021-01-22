@@ -14,10 +14,11 @@
 	font-size: 42px;
 }
 .bigdiv1{
-	height: 314px;
+	/*height: 314px;*/
 	width: 352px;
 	margin-top: 50px;
 	background-color: #F8F8F8;
+	padding-bottom: 23px;
 }
 .bloutext1 {
 	text-align: center;
@@ -29,7 +30,18 @@
 	margin-top: 5px;
 	text-align: center;
 }
-.familly {
+.familly1 {
+	font-size: 14px;
+	text-align: center;
+	color: #B1B1B1;
+	margin-top: 10px;
+}
+.familly2 {
+	font-size: 14px;
+	text-align: center;
+	color: #B1B1B1;
+}
+.familly3{
 	font-size: 14px;
 	text-align: center;
 	color: #B1B1B1;
