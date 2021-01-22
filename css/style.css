@@ -14,7 +14,6 @@
 	font-size: 42px;
 }
 .bigdiv1{
-	/*height: 314px;*/
 	width: 352px;
 	margin-top: 50px;
 	background-color: #F8F8F8;
@@ -45,4 +44,9 @@
 	font-size: 14px;
 	text-align: center;
 	color: #B1B1B1;
+}
+.bigdivi2 {
+	width: 352px;
+	margin-top: 50px;
+	background-color: #F8F8F8;
 }
