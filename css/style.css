@@ -48,11 +48,15 @@
 }
 .bigdiv2 {
 	width: 352px;
-	height: 32px;
 	margin-top: 50px;
-	background-color: black;
+	background-color:#F8F8F8 ;
 	float: left;
 }
 .clear {
 	clear: both;
+}
+.bloutext2 {
+	text-align: center;
+	margin-top: 23px;
+	color: #5863F8;
 }
