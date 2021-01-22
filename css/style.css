@@ -46,10 +46,11 @@
 	text-align: center;
 	color: #B1B1B1;
 }
-.bigdivi2 {
+.bigdiv2 {
 	width: 352px;
+	height: 32px;
 	margin-top: 50px;
-	background-color: #F8F8F8;
+	background-color: black;
 	float: left;
 }
 .clear {
