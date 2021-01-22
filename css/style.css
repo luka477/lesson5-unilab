@@ -22,4 +22,10 @@
 .bloutext1 {
 	text-align: center;
 	margin-top: 23px;
+	color: #5863F8;
+}
+.business {
+	font-size: 18px;
+	margin-top: 5px;
+	text-align: center;
 }
