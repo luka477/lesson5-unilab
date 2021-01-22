@@ -60,5 +60,13 @@
 .bloutext2 {
 	text-align: center;
 	margin-top: 23px;
-	color: #5863F8;
+	color: #5863;
+}
+.bigdiv3 {
+	width: 352px;
+	margin-top: 50px;
+	background-color:#F8F8F8 ;
+	float: left;
+	padding-bottom: 23px;
+	margin-left: 16px;
 }
