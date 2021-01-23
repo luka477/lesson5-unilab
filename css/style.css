@@ -75,12 +75,17 @@
 }
 .downdivi {
 	width: 1088px;
-	margin-top: 16px;
 }
 .bigdiv4 {
 	width: 352px;
-	margin-top: 50px;
-	background-color: #F8F8F8;
-	padding-bottom: 23px;
+	height: 360px;
+	background-color:#F8F8F8 ;
 	float: left;
+}
+.bigdiv5 {
+	width: 352px;
+	height: 360px;
+	background-color:#F8F8F8 ;
+	float: left;
+	margin-left: 16px;
 }
