@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,900;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,700;1,700&family=Poppins:ital,wght@0,900;1,900&display=swap');
 .container {
 	width: 1088px;
 	margin-left: auto;
@@ -8,12 +10,15 @@
 .blog {
 	font-size: 14px;
 	color: #5863F8;
+	font-family: 'Poppins', sans-serif;
 }
 .satauri1 {
 	font-size: 42px;
+	font-family: 'Poppins', sans-serif;
 }
 .satauri2 {
 	font-size: 42px;
+	font-family: 'Poppins', sans-serif;
 }
 .bigdiv1{
 	width: 352px;
@@ -26,27 +31,32 @@
 	text-align: center;
 	margin-top: 23px;
 	color: #5863F8;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 .business {
 	font-size: 18px;
 	margin-top: 5px;
 	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 .familly1 {
 	font-size: 14px;
 	text-align: center;
 	color: #B1B1B1;
 	margin-top: 10px;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 .familly2 {
 	font-size: 14px;
 	text-align: center;
 	color: #B1B1B1;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 .familly3{
 	font-size: 14px;
 	text-align: center;
 	color: #B1B1B1;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 .bigdiv2 {
 	width: 352px;
@@ -63,6 +73,7 @@
 	text-align: center;
 	margin-top: 23px;
 	color: #5863F8;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 .bigdiv3 {
 	width: 352px;
